@@ -1,1 +1,3 @@
-# titech-portal-swift-example
+# TitechPortalExample
+
+A description of this package.

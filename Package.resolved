@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Kanna",
+        "repositoryURL": "https://github.com/tid-kijyun/Kanna.git",
+        "state": {
+          "branch": null,
+          "revision": "f9e4922223dd0d3dfbf02ca70812cf5531fc0593",
+          "version": "5.2.7"
+        }
+      },
+      {
+        "package": "TitechPortalKit",
+        "repositoryURL": "https://github.com/TitechAppProject/titech-portal-kit",
+        "state": {
+          "branch": null,
+          "revision": "3c09f26cb1379ea31dc43c6119f43ca09ac43d71",
+          "version": "1.3.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
